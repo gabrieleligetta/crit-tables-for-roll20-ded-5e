@@ -1,0 +1,15 @@
+/roll 1t?{Damage Type|
+Acid,[Acid-crit]|
+Bludgeoning,[Bludgeoning-crit]|
+Cold,[Cold-crit]|
+Fire,[Fire-crit]|
+Force,[Force-crit]|
+Lightning,[Lightning-crit]|
+Necrotic,[Necrotic-crit]|
+Piercing,[Piercing-crit]|
+Poison,[Poison-crit]|
+Psychic,[Psychic-crit]|
+Radiant,[Radiant-crit]|
+Slashing,[Slashing-crit]|
+Thunder,[Thunder-crit]
+}

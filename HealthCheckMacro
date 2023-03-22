@@ -1,0 +1,6 @@
+/w gm &{template:default} {{name=Health Check}}
+{{Glaedr Brisingr= AC @{Glaedr Brisingr|ac} - HP @{Glaedr Brisingr|hp} / @{Glaedr Brisingr|hp|max}}}
+{{Sainhar= AC @{Sainhar|ac} - HP @{Sainhar|hp} / @{Sainhar|hp|max}}}
+{{Viktor Kinkō= AC @{Viktor Kinkō|ac} - HP @{Viktor Kinkō|hp} / @{Viktor Kinkō|hp|max}}}
+{{Yuhiri= AC @{Yuhiri|ac} - HP @{Yuhiri|hp} / @{Yuhiri|hp|max}}}
+{{Olde Wanqva= AC @{Olde Wanqva|ac} - HP @{Olde Wanqva|hp} / @{Olde Wanqva|hp|max}}}
